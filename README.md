@@ -1,2 +1,1 @@
-# Machine-learning---Classifier
-Machine Learning - Classifier
+# Machine Learning - Classifier
