@@ -31,5 +31,5 @@ The data set has a list of 2 files, which are:
 1 - adult.data: data set use to train the model  
 2 - adult.tes: data set use to test the model and calculate the accuracy
  
-**This data set was extracted from [Datasciencedojo.com](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Census%20Income), where it is possible find more details.**
+**This data set was extracted from [Datasciencedojo.com](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Census%20Income), where it is possible find more details.**  
 **The UCI page mentions [US Census Bureau](http://www.census.gov/ftp/pub/DES/www/welcome.html) as the original source of the data set** 
