@@ -4,6 +4,7 @@ I used this data set do compare 6 difference classifier (Random Forest, KNC, Dec
 
 # Tasks
 This project was used to achieved the following task:
+
 1- Compare 6 classifier:  
 &emsp;● RandomForestClassifier;  
 &emsp;● KNeighborsClassifier;  
