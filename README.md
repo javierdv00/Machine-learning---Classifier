@@ -3,7 +3,7 @@ The data set have a personal information of 46033 people and it is a example to 
 I used this data set do compare 6 difference classifier (Random Forest, KNC, Decision Tree, LogisticRegression, GaussianNB, LinearSVC), comparing them by the accuracy 
 
 # Tasks
-This project was used to achieved the following task:
+This project was used to achieve the following task: 
 
 1- Compare 6 classifier:  
 &emsp;● RandomForestClassifier;  
